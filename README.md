@@ -106,4 +106,5 @@ Before making the repository public as an open-source release, complete [docs/RE
 
 ## Contact
 
-Add the corresponding author's institutional email here before public release. Please use GitHub issues only for questions about the released files; questions about unreleased components should be directed to the corresponding author.
+For daily maintenance, please contact one of the authors: [ZhenhaoFu@seu.edu.cn](mailto:ZhenhaoFu@seu.edu.cn).  
+Please use GitHub issues only for questions about the released files; questions about unreleased components should be directed to [ZhenhaoFu@seu.edu.cn](mailto:ZhenhaoFu@seu.edu.cn).
