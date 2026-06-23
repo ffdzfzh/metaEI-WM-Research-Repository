@@ -26,4 +26,4 @@ This directory contains scripts that inspect the released data and reproduce the
 | `visualization/plot_power_maps_*.m` | JSON radio maps and STL scene geometry |
 | `visualization/plot_symbiotic_communication_maps.m` | Corridor coding-state radio maps |
 
-The scripts are research visualization programs rather than a unified command-line package. Default example inputs are declared near the start or end of each file. Generated products should be written under `outputs/` and should not be committed unless they are selected manuscript artifacts.
+The scripts are research visualization programs rather than a unified command-line package. Default example inputs are declared near the start or end of each file. 
