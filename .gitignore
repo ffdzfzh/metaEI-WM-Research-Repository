@@ -1,0 +1,26 @@
+# Local IDE and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Python and MATLAB outputs
+__pycache__/
+*.py[cod]
+*.asv
+*.m~
+.pytest_cache/
+
+# Generated figures and evaluation products
+outputs/*
+!outputs/.gitkeep
+quality_results/
+picture_show/
+
+# Local-only upstream snapshots, withheld code, and withheld data
+_local/
+
+# Secrets and machine-specific settings
+.env
+*.key
+*.pem

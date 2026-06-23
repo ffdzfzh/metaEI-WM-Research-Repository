@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: >-
+  Please cite the associated WM-metaEI paper and every upstream project used
+  in your reproduced pipeline. Update this file with the final DOI and full
+  author list before archival release.
+title: "WM-metaEI Research Repository"
+type: software
+authors:
+  - family-names: "Fu"
+    given-names: "Zhenhao"
+version: "0.1.0-prepublication"
+abstract: >-
+  Code and data associated with World-Model Metasurface Embodied Intelligence,
+  including released perception demonstrations, metasurface coding algorithms,
+  USRP experiment files, measurements, simulations, and evaluation scripts.
+keywords:
+  - information metasurface
+  - electromagnetic world model
+  - embodied intelligence
+  - ray tracing
+  - wireless sensing

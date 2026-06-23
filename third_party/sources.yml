@@ -1,0 +1,60 @@
+# Replace every TO_BE_PINNED value with the exact revision used for the paper.
+sources:
+  - name: Qwen-Agent
+    url: https://github.com/QwenLM/Qwen-Agent.git
+    revision: TO_BE_PINNED
+    role: agent-framework-reference
+    redistribution: not-vendored
+    license_observed: Apache-2.0
+
+  - name: TARE Planner
+    url: https://github.com/caochao39/tare_planner.git
+    branch: melodic-noetic
+    revision: TO_BE_PINNED
+    role: autonomous-exploration
+    redistribution: not-vendored-license-review-required
+
+  - name: R3LIVE
+    url: https://github.com/hku-mars/r3live.git
+    revision: TO_BE_PINNED
+    role: rgb-point-cloud-reconstruction
+    redistribution: not-vendored
+    license_observed: GPL-2.0-with-upstream-usage-notice
+
+  - name: SpatialLM
+    url: https://github.com/manycore-research/SpatialLM.git
+    revision: TO_BE_PINNED
+    role: semantic-scene-parsing
+    redistribution: not-vendored-mixed-model-and-code-licenses
+
+  - name: RoomFormer
+    url: https://github.com/ywyue/RoomFormer.git
+    revision: TO_BE_PINNED
+    role: room-topology-reconstruction
+    redistribution: not-vendored
+    license_observed: MIT
+
+  - name: SpotFi
+    url: TO_BE_VERIFIED
+    revision: TO_BE_PINNED
+    role: csi-aoa-tof-method
+    redistribution: prohibited-until-provenance-and-license-are-verified
+
+  - name: Linux 802.11n CSI Tool supplementary material
+    url: https://github.com/dhalperi/linux-80211n-csitool-supplementary.git
+    revision: TO_BE_PINNED
+    role: intel-5300-csi-acquisition
+    redistribution: not-vendored
+
+  - name: Linux 802.11n CSI Tool newer-kernel port
+    url: https://github.com/spanev/linux-80211n-csitool.git
+    revision: TO_BE_PINNED
+    role: newer-kernel-reference
+    redistribution: not-vendored
+
+  - name: NimbusRT
+    url: https://github.com/nvaara/NimbusRT.git
+    revision: TO_BE_PINNED
+    role: point-cloud-ray-launching-base
+    redistribution: planned-modified-release-after-review-and-permission
+    license_observed: Apache-2.0

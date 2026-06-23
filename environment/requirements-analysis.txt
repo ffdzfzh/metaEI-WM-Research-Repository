@@ -1,0 +1,12 @@
+matplotlib
+numpy
+open3d
+opencv-python
+openpyxl
+pandas
+pillow
+pyvista
+pyvistaqt
+scikit-image
+scipy
+vmdpy
