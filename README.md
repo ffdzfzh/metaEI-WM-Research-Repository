@@ -49,8 +49,8 @@ The local directory `_local/` is intentionally ignored by Git. It contains worki
 | Full Qwen-based agent orchestration | Not released in this version | Planned after publication |
 | NimbusRT-derived semantic scene extension | Withheld | Planned after publication and upstream approval |
 | EM object/material mapping library | Withheld | Planned after publication and upstream approval |
-| End-to-end ray-tracing drivers | Withheld | Planned after publication and upstream approval |
-| High-resolution workplace and apartment point clouds | Local-only in this version | External archive or Git LFS planned |
+| End-to-end ray-tracing drivers | Partially released | Planned after publication and upstream approval |
+| High-resolution workplace and apartment point clouds | Released | https://pan.quark.cn/s/275aae59c8c4 |
 
 The withheld ray-tracing drivers implement: target-region back-projection onto the IMS aperture, baseline radio-map simulation without an IMS, and radio-map simulation with an IMS. Their public release depends on completing the manuscript review and resolving redistribution and attribution requirements for the NimbusRT-derived extension.
 
