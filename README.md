@@ -1,6 +1,6 @@
 # WM-metaEI Research Repository
 
-This repository accompanies the manuscrit 'Metasurface embodied intelligence through electromagnetic world model'. It organizes the released code and data used to construct semantic indoor environments, predict electromagnetic (EM) behavior, optimize information metasurface (IMS) coding patterns, operate USRP experiments, and evaluate the three demonstration scenarios.
+This repository accompanies the manuscript 'Metasurface embodied intelligence through electromagnetic world model'. It organizes the released code and data used to construct semantic indoor environments, predict electromagnetic (EM) behavior, optimize information metasurface (IMS) coding patterns, operate USRP experiments, and evaluate the three demonstration scenarios.
 
 > **Pre-publication status.** This is a staged research release, not yet the complete end-to-end system. Selected implementation details and large data products will be released after the paper is published and, where required, permission has been obtained from upstream authors.
 
